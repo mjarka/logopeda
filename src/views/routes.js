@@ -58,27 +58,27 @@ import {
 
 const routes = [
   {
-    path: '/',
+    path: '/logopeda/',
     renderer: (params = {}) => <IndexView {...params} />,
   },
   {
-    path: '/home',
+    path: '/logopeda/home',
     renderer: (params = {}) => <HomeView {...params} />,
   },
   {
-    path: '/customers',
+    path: '/logopeda/customers',
     renderer: (params = {}) => <CustomersView {...params} />,
   },
   {
-    path: '/hire-us',
+    path: '/logopeda/hire-us',
     renderer: (params = {}) => <HireUsView {...params} />,
   },
   {
-    path: '/faq',
+    path: '/logopeda/faq',
     renderer: (params = {}) => <FaqView {...params} />,
   },
   {
-    path: '/career-listing',
+    path: '/logopeda/career-listing',
     renderer: (params = {}) => <CareerListingView {...params} />,
   },
   {
@@ -94,7 +94,7 @@ const routes = [
     renderer: (params = {}) => <ContactPageView {...params} />,
   },
   {
-    path: '/coworking',
+    path: '/logopeda/coworking',
     renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
