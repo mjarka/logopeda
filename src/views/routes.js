@@ -58,8 +58,8 @@ import {
 
 const routes = [
   {
-    path: '/logopeda/',
-    renderer: (params = {}) => <IndexView {...params} />,
+    path: '/logopeda',
+    renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
     path: '/logopeda/home',
