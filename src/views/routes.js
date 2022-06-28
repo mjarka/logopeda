@@ -63,7 +63,7 @@ const routes = [
   },
   {
     path: '/logopeda/home',
-    renderer: (params = {}) => <HomeView {...params} />,
+    renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
     path: '/logopeda/customers',
