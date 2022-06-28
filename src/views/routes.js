@@ -62,16 +62,16 @@ const routes = [
     renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
-    path: '/logopeda#coworking',
+    path: '/logopeda',
     renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
     path: '/customers',
-    renderer: (params = {}) => <CustomersView {...params} />,
+    renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
     path: '/logopeda/hire-us',
-    renderer: (params = {}) => <HireUsView {...params} />,
+    renderer: (params = {}) => <CoworkingView {...params} />,
   },
   {
     path: '/logopeda/faq',
