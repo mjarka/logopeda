@@ -12,9 +12,9 @@ import 'aos/dist/aos.css';
 const App = () => {
   return (
     <Page>
-      <BrowserRouter>
+      <HashRouter>
         <Routes />
-      </BrowserRouter>
+      </HashRouter>
     </Page>
   );
 };
