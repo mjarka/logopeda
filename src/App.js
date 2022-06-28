@@ -12,12 +12,7 @@ import Coworking from 'views/Coworking/Coworking';
 const App = () => {
   return (
     <Page>
-      <HashRouter>
-        {/* <Routes /> */}
-        <ReactRoutes>
-          <Route path="/" element={<Coworking />}></Route>
-        </ReactRoutes>
-      </HashRouter>
+      <Coworking />
     </Page>
   );
 };
