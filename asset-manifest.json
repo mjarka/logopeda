@@ -1,10 +1,15 @@
 {
   "files": {
     "main.css": "/logopeda/static/css/main.a889a006.css",
-    "main.js": "/logopeda/static/js/main.869fd427.js",
-    "static/js/27.d902a030.chunk.js": "/logopeda/static/js/27.d902a030.chunk.js",
+    "main.js": "/logopeda/static/js/main.5299fede.js",
+    "static/js/3.11a57865.chunk.js": "/logopeda/static/js/3.11a57865.chunk.js",
+    "static/js/27.8fe97bd4.chunk.js": "/logopeda/static/js/27.8fe97bd4.chunk.js",
+    "static/media/c.jpg": "/logopeda/static/media/c.52d1759c5267515ed51e.jpg",
+    "static/media/a.jpg": "/logopeda/static/media/a.886578f3b151b519b16c.jpg",
+    "static/media/b.jpg": "/logopeda/static/media/b.e1822742ae65a56a99ee.jpg",
     "static/media/face.png": "/logopeda/static/media/face.dee7850ab6e1a3b2a6cb.png",
     "static/media/img.jpg": "/logopeda/static/media/img.e12d8e9ac9511a0fcfd3.jpg",
+    "static/media/d.jpg": "/logopeda/static/media/d.2347b44e3553b0147ad2.jpg",
     "static/media/Logo.svg": "/logopeda/static/media/Logo.7bf711e5052c02c9c831a7bd61f5d91e.svg",
     "static/media/slick.svg": "/logopeda/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/logopeda/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -14,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.a889a006.css",
-    "static/js/main.869fd427.js"
+    "static/js/main.5299fede.js"
   ]
 }
