@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logopeda/static/css/main.a889a006.css",
-    "main.js": "/logopeda/static/js/main.caa61d01.js",
+    "main.js": "/logopeda/static/js/main.5699ad25.js",
     "static/js/27.d902a030.chunk.js": "/logopeda/static/js/27.d902a030.chunk.js",
     "static/media/face.png": "/logopeda/static/media/face.dee7850ab6e1a3b2a6cb.png",
     "static/media/img.jpg": "/logopeda/static/media/img.837cc5703f6b17763d5a.jpg",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.a889a006.css",
-    "static/js/main.caa61d01.js"
+    "static/js/main.5699ad25.js"
   ]
 }
